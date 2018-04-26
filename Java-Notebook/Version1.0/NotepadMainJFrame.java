@@ -1,3 +1,10 @@
+/**
+*fun:打开功能
+*author:creator
+*date:2018/4/25
+*/
+
+
 package com.hejin.notepad;
 
 import javax.swing.JFileChooser;
